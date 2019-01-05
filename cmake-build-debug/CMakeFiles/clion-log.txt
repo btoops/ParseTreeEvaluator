@@ -1,0 +1,16 @@
+"C:\Program Files\JetBrains\CLion 2018.2.6\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\btroo\CLionProjects\project2csc173
+-- The C compiler identification is GNU 6.3.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  C_STANDARD is set to invalid value '99;CMAKE_C_FLAGS; -g -std=c99 -Wall
+  -Werror'
+
+
+-- Generating done
+-- Build files have been written to: C:/Users/btroo/CLionProjects/project2csc173/cmake-build-debug
